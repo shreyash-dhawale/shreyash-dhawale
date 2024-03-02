@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyash Dhawake</h1>
+<h1 align="center">Hi 👋, I'm Shreyash Dhawale</h1>
 <h3 align="center">A fullstack developer and cybersecurity enthusiast</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyash-dhawale&theme=matrix" alt="kronos2003" /></a> </p>
